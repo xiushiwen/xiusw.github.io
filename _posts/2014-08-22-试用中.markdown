@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "well"
+date:   2014-08-22 18:51:02
+categories: 起步
+---
+on the way!
+{% highlight ruby %}
+print_r('on my way');
+{% endhighlight %}
+
+[测试]({{ site.url }}/downloads/friend.jpg)
