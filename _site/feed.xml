@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>xiusw</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>seaven简简单单</title>
+    <description>记录,学习,点点滴滴.
 </description>
-    <link>http://yourdomain.com/xiusw.github.io/</link>
-    <atom:link href="http://yourdomain.com/xiusw.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 15 Aug 2014 15:16:03 +0800</pubDate>
-    <lastBuildDate>Fri, 15 Aug 2014 15:16:03 +0800</lastBuildDate>
+    <link>http://xiushiwen.github.io/xiusw.github.io/xiusw.github.io/</link>
+    <atom:link href="http://xiushiwen.github.io/xiusw.github.io/xiusw.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 28 Sep 2014 17:14:28 +0800</pubDate>
+    <lastBuildDate>Sun, 28 Sep 2014 17:14:28 +0800</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>well</title>
+        <description>&lt;p&gt;on the way!&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;print_r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;on my way&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://xiushiwen.github.io/xiusw.github.io/downloads/friend.jpg&quot;&gt;测试&lt;/a&gt;
+&amp;lt;image src=http://xiushiwen.github.io/xiusw.github.io’/downloads/friend.jpg’&amp;gt;&amp;lt;/image&amp;gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Aug 2014 02:51:02 +0800</pubDate>
+        <link>http://xiushiwen.github.io/xiusw.github.io/xiusw.github.io/%E8%B5%B7%E6%AD%A5/2014/08/23/%E8%AF%95%E7%94%A8%E4%B8%AD.html</link>
+        <guid isPermaLink="true">http://xiushiwen.github.io/xiusw.github.io/xiusw.github.io/%E8%B5%B7%E6%AD%A5/2014/08/23/%E8%AF%95%E7%94%A8%E4%B8%AD.html</guid>
+        
+        
+        <category>起步</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -28,8 +46,8 @@
 
 </description>
         <pubDate>Fri, 15 Aug 2014 02:51:02 +0800</pubDate>
-        <link>http://yourdomain.com/xiusw.github.io/jekyll/update/2014/08/15/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/xiusw.github.io/jekyll/update/2014/08/15/welcome-to-jekyll.html</guid>
+        <link>http://xiushiwen.github.io/xiusw.github.io/xiusw.github.io/jekyll/update/2014/08/15/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://xiushiwen.github.io/xiusw.github.io/xiusw.github.io/jekyll/update/2014/08/15/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
