@@ -10,4 +10,3 @@ print_r('on my way');
 {% endhighlight %}
 
 [测试]({{ site.url }}/downloads/friend.jpg)
-<image src={{ site.url }}'/downloads/friend.jpg'></image>
