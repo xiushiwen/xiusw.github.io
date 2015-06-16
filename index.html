@@ -25,9 +25,9 @@ document.onkeydown=function(e){ //获得键盘按下事件
 }
 </script>
     <form id="form1">
-        <input type="search" name="text1" placeholder="请输入名称" autofocus>
-        <input type="email" name="email" placeholder="请输入邮箱" >
-        <input type="number" name="number" max="1" min="0" placeholder="请输入数字" >
+        <input data-search="sss" type="search" name="text1" placeholder="请输入名称" autofocus>
+        <input data-email="eee" type="email" name="email" placeholder="请输入邮箱" >
+        <input data-search="sss1" type="number" name="number" max="1" min="0" placeholder="请输入数字" >
         <input type="tel" name="tel" placeholder="请输入电话" >
         <input type="url" name="url" placeholder="请输入网址" >
 
@@ -50,3 +50,8 @@ document.onkeydown=function(e){ //获得键盘按下事件
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
+<script>
+$('[name=text1]').click(function(){
+   alert($(this.dataset.search));
+});
+</script>
