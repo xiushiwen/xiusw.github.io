@@ -6,11 +6,6 @@ title: 简简单单
 <div class="home">
 <script>
 $(document).ready(function() {
-    var text1 = document.getElementsByName("text1");
-    $("[name='text1']").click(function(){
-        alert(1);
-        alert(text1.dataset.search);
-    });
 });
 document.onkeydown=function(e){ //获得键盘按下事件
 	var e=(typeof event!='undefined')?window.event:e; //支持ie，ff，safari，opera
@@ -28,15 +23,31 @@ document.onkeydown=function(e){ //获得键盘按下事件
 	}
 }
 </script>
-    <form id="form1">
-        <input data-search="sss" type="search" name="text1" placeholder="请输入名称" autofocus>
-        <input data-email="eee" type="email" name="email" placeholder="请输入邮箱" >
-        <input data-search="sss1" type="number" name="number" max="1" min="0" placeholder="请输入数字" >
-        <input type="tel" name="tel" placeholder="请输入电话" >
-        <input type="url" name="url" placeholder="请输入网址" >
+    <section data-role="page" id="one_page">
+        <form id="form1">
+            <input data-search="sss" type="search" name="text1" placeholder="请输入名称" autofocus>
+            <input data-email="eee" type="email" name="email" placeholder="请输入邮箱" >
+            <input data-search="sss1" type="number" name="number" max="1" min="0" placeholder="请输入数字" >
+            <input type="tel" name="tel" placeholder="请输入电话" >
+            <input type="url" name="url" placeholder="请输入网址" >
 
-    </form>
-    <input type="text" name="text2" placeholder="请输入" form = "form1">
+        </form>
+        <input type="text" name="text2" placeholder="请输入" form = "form1">
+        <a href="#two_page">第2页</a>
+    </section>
+    <section data-role="page" id="two_page">
+        <form id="form1">
+            <input data-search="sss" type="search" name="text1" placeholder="请输入名称1" autofocus>
+            <input data-email="eee" type="email" name="email" placeholder="请输入邮箱1" >
+            <input data-search="sss1" type="number" name="number" max="1" min="0" placeholder="请输入数字1" >
+            <input type="tel" name="tel" placeholder="请输入电话" >
+            <input type="url" name="url" placeholder="请输入网址" >
+
+        </form>
+        <input type="text" name="text2" placeholder="请输入" form = "form1">
+        <a href="#one_page">第一页</a>
+    </section>
+
 <div id="fly" style="background-color:blue;width:100px;height:100px;position: absolute;" ></div>
   <h1 class="page-heading">News</h1>
 
