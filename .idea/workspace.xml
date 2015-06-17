@@ -46,21 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="header.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="495">
-              <caret line="0" column="65" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+              <caret line="0" column="67" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-              <caret line="0" column="65" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1050">
+              <caret line="0" column="67" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -92,8 +92,8 @@
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_includes/header.html" />
       </list>
     </option>
   </component>
@@ -400,18 +400,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-          <caret line="0" column="65" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
+          <caret line="0" column="67" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-          <caret line="0" column="65" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <caret line="0" column="67" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
           <folding />
         </state>
       </provider>
